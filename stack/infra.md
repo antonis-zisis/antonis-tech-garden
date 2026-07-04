@@ -6,4 +6,5 @@
 - [Supabase](https://supabase.com/): Postgres database, Authentication and more.
 - [Google Cloud](https://console.cloud.google.com/): Deploy an application and many more.
 - [Cloudinary](https://cloudinary.com/): Media management and optimization platform.
-- [Umami](https://cloud.umami.is/): Modern Analytics platform
+- [Umami](https://cloud.umami.is/): Modern Analytics platform.
+- [Logo Dev](https://www.logo.dev/)Every company logo, one simple API.
